@@ -1,0 +1,6 @@
+{
+  "name": "J.A.R.V.I.S. AI Voice System & MCU Capability Matrix",
+  "description": "Interactive, movie-accurate J.A.R.V.I.S. voice assistant with holographic HUD, high-thinking reasoning, voice synthesis, real-time telemetry, and a complete catalog of capabilities from the Iron Man films.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
